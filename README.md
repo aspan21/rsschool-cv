@@ -1,1 +1,1 @@
-<!-- https://aspan21.github.io/rsschool-cv/cv -->
+https://aspan21.github.io/rsschool-cv/cv
